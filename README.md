@@ -1,4 +1,5 @@
-# flutter_story_app_ui_design
+# Flutter Story App UI Concept - Speed Code
+- [Source Tutorial](https://www.youtube.com/watch?v=5KbiU-93-yU&list=PLMgOc97noAtep2Jm03nJj245K2JmIsHJB&index=1)
 
 A new Flutter project.
 
